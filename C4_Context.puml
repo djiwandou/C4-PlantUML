@@ -145,9 +145,9 @@ SetDefaultLegendEntries("person\nsystem\nexternal_person\nexternal_system")
 hide stereotype
 legend right
 |<color:$LEGEND_TITLE_COLOR>**Legend**</color> |
-|<$PERSON_BG_COLOR> person |
+|<$PERSON_BG_COLOR> product |
 |<$SYSTEM_BG_COLOR> system|
-|<$EXTERNAL_PERSON_BG_COLOR> external person |
+|<$EXTERNAL_PERSON_BG_COLOR> external product |
 |<$EXTERNAL_SYSTEM_BG_COLOR> external system |
 endlegend
 !endprocedure
